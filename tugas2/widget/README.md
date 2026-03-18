@@ -73,7 +73,7 @@ Column
 
 ---
 
-## ⚙️ State Management
+## State Management
 
 Aplikasi menggunakan `StatefulWidget` (`HomePage`) untuk mengelola data yang berubah.
 
