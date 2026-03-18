@@ -1,9 +1,19 @@
 
 ---
+## Hasil
+
+![WhatsApp Image 2026-03-18 at 10 03 30 AM](https://github.com/user-attachments/assets/4d402083-0fc2-4383-90c0-fb456cfc3f7a)
+
+
+## Widget tree
+
+<img width="8191" height="4281" alt="MyApp MaterialApp Structure-2026-03-18-032856" src="https://github.com/user-attachments/assets/cf65642a-1fe9-4232-b7f3-42fdcdfd651d" />
+
+
 
 ## Penjelasan
 
-### 1. Root Widget
+### 1. Root widget
 - `runApp()` digunakan untuk menjalankan aplikasi.
 - `MyApp` merupakan widget utama yang mengembalikan `MaterialApp`.
 
