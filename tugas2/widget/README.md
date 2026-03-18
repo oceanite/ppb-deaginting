@@ -53,8 +53,11 @@ Widget `Column` digunakan untuk menyusun elemen secara **vertikal**:
 Struktur:
 
 Column
+
 ├── Icon
+
 ├── SizedBox
+
 └── Text
 
 
