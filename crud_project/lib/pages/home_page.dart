@@ -12,14 +12,18 @@ class HomePage extends StatefulWidget {
 class _HomePageState extends State<HomePage> {
   final titleTextController = TextEditingController();
   final contentTextController = TextEditingController();
+  final locationTextController = TextEditingController();
+  final jumlahTextController = TextEditingController();
 
   final FirestoreService firestoreService = FirestoreService();
-
-  void openNoteBox({String? docId, String? existingTitle, String? existingNote}) async {
+ 
+  void openNoteBox({String? docId, String? existingTitle, String? existingNote, String? existingLocation, int? existingJumlah} ) async {
     if (docId != null) {
 
       titleTextController.text = existingTitle ?? '';
       contentTextController.text = existingNote ?? '';
+      locationTextController.text = existingLocation ?? '';
+      jumlahTextController.text = existingJumlah?.toString() ?? '';
 
     }
 
@@ -40,6 +44,17 @@ class _HomePageState extends State<HomePage> {
                 decoration: InputDecoration(labelText: "Content"),
                 controller: contentTextController,
               ),
+              const SizedBox(height: 10),
+              TextField(
+                decoration: InputDecoration(labelText: "Location"),
+                controller: locationTextController,
+              ),
+              const SizedBox(height: 10),
+              TextField(
+                decoration: InputDecoration(labelText: "Jumlah"),
+                controller: jumlahTextController,
+                keyboardType: TextInputType.number,
+              ),
             ],
           ),
           actions: [
@@ -49,16 +64,22 @@ class _HomePageState extends State<HomePage> {
                   firestoreService.addNote(
                     titleTextController.text,
                     contentTextController.text,
+                    locationTextController.text,
+                    int.tryParse(jumlahTextController.text) ?? 0
                   );
                 } else {
                   firestoreService.updateNote(
                     docId,
                     titleTextController.text,
                     contentTextController.text,
+                    locationTextController.text,
+                    int.tryParse(jumlahTextController.text) ?? 0
                   );
                 }
                 titleTextController.clear();
                 contentTextController.clear();
+                locationTextController.clear();
+                jumlahTextController.clear();
 
                 Navigator.pop(context);
               },
