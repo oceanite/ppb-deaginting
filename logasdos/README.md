@@ -440,7 +440,7 @@ Saat pertama run, Flutter akan print link error untuk membuat index otomatis. Kl
 
 | Notifikasi | 
 |:---:|
-| <img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/732314ae-dab4-487b-9141-874680b89c5a" /> | 
+| <img width="369" height="800" alt="image" src="https://github.com/user-attachments/assets/732314ae-dab4-487b-9141-874680b89c5a" /> | 
 
 | Riwayat Aktivitas | Beranda Dosen | Bulk Approval |
 |:---:|:---:|:---:|
