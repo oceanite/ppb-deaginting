@@ -438,9 +438,11 @@ Saat pertama run, Flutter akan print link error untuk membuat index otomatis. Kl
 |:---:|:---:|:---:|
 | <img width="369" height="800" alt="WhatsApp Image 2026-04-29 at 8 42 15 AM" src="https://github.com/user-attachments/assets/9a1b3040-0621-4e3e-b900-9cfb972ca652" /> | _<img width="369" height="800" alt="image" src="https://github.com/user-attachments/assets/475b3a94-19ac-48cd-921c-751ea0596c13" /> | <img width="369" height="800" alt="image" src="https://github.com/user-attachments/assets/6c07db29-fe9f-4c72-a2b3-1444eeb79835" /> |
 
-| Notifikasi | 
-|:---:|
-| <img width="369" height="800" alt="image" src="https://github.com/user-attachments/assets/732314ae-dab4-487b-9141-874680b89c5a" /> | 
+| Notifikasi | Firestore | Authentication |
+|:---:|:---:|:---:|
+| <img width="369" height="800" alt="image" src="https://github.com/user-attachments/assets/732314ae-dab4-487b-9141-874680b89c5a" /> | <img width="959" height="474" alt="image" src="https://github.com/user-attachments/assets/837aff74-1d64-4aa7-a256-23050963195c" /> | <img width="650" height="387" alt="image" src="https://github.com/user-attachments/assets/7885642d-0a3a-4b6e-9a11-9b921786d846" /> |
+
+
 
 | Riwayat Aktivitas | Beranda Dosen | Bulk Approval |
 |:---:|:---:|:---:|
