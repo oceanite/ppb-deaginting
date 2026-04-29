@@ -436,11 +436,11 @@ Saat pertama run, Flutter akan print link error untuk membuat index otomatis. Kl
 
 | Login | Beranda Asdos | Input Log |
 |:---:|:---:|:---:|
-| <img width="185" height="400" alt="WhatsApp Image 2026-04-29 at 8 42 15 AM" src="https://github.com/user-attachments/assets/9a1b3040-0621-4e3e-b900-9cfb972ca652" /> | _<img width="185" height="400" alt="image" src="https://github.com/user-attachments/assets/475b3a94-19ac-48cd-921c-751ea0596c13" /> | <img width="185" height="400" alt="image" src="https://github.com/user-attachments/assets/6c07db29-fe9f-4c72-a2b3-1444eeb79835" /> |
+| <img width="369" height="800" alt="WhatsApp Image 2026-04-29 at 8 42 15 AM" src="https://github.com/user-attachments/assets/9a1b3040-0621-4e3e-b900-9cfb972ca652" /> | _<img width="369" height="800" alt="image" src="https://github.com/user-attachments/assets/475b3a94-19ac-48cd-921c-751ea0596c13" /> | <img width="369" height="800" alt="image" src="https://github.com/user-attachments/assets/6c07db29-fe9f-4c72-a2b3-1444eeb79835" /> |
 
 | Riwayat Aktivitas | Beranda Dosen | Bulk Approval |
 |:---:|:---:|:---:|
-| <img width="540" height="1170" alt="image" src="https://github.com/user-attachments/assets/d8ee6023-d440-4f85-ad55-105be1862d59" /> | <img width="540" height="1170" alt="image" src="https://github.com/user-attachments/assets/c89ef6d3-7248-4df5-9688-36357a6ec82f" /> | <img width="369" height="800" alt="image" src="https://github.com/user-attachments/assets/001ec6b2-ad77-473a-826d-7db0ce1295d4" /> |
+| <img width="369" height="800" alt="image" src="https://github.com/user-attachments/assets/d8ee6023-d440-4f85-ad55-105be1862d59" /> | <img width="369" height="800" alt="image" src="https://github.com/user-attachments/assets/c89ef6d3-7248-4df5-9688-36357a6ec82f" /> | <img width="369" height="800" alt="image" src="https://github.com/user-attachments/assets/001ec6b2-ad77-473a-826d-7db0ce1295d4" /> |
 
 | Dashboard Admin | Manajemen User | Manajemen Kelas |
 |:---:|:---:|:---:|
