@@ -440,17 +440,11 @@ Saat pertama run, Flutter akan print link error untuk membuat index otomatis. Kl
 
 | Riwayat Aktivitas | Beranda Dosen | Bulk Approval |
 |:---:|:---:|:---:|
-| _<img width="540" height="1170" alt="image" src="https://github.com/user-attachments/assets/d8ee6023-d440-4f85-ad55-105be1862d59" />
-_ | _<img width="540" height="1170" alt="image" src="https://github.com/user-attachments/assets/c89ef6d3-7248-4df5-9688-36357a6ec82f" />
-_ | _<img width="369" height="800" alt="image" src="https://github.com/user-attachments/assets/001ec6b2-ad77-473a-826d-7db0ce1295d4" />
-_ |
+| <img width="540" height="1170" alt="image" src="https://github.com/user-attachments/assets/d8ee6023-d440-4f85-ad55-105be1862d59" /> | <img width="540" height="1170" alt="image" src="https://github.com/user-attachments/assets/c89ef6d3-7248-4df5-9688-36357a6ec82f" /> | <img width="369" height="800" alt="image" src="https://github.com/user-attachments/assets/001ec6b2-ad77-473a-826d-7db0ce1295d4" /> |
 
 | Dashboard Admin | Manajemen User | Manajemen Kelas |
 |:---:|:---:|:---:|
-| _<img width="369" height="800" alt="image" src="https://github.com/user-attachments/assets/9da57897-2479-4fba-b0b0-7275d349cc53" />
-_ | _<img width="369" height="800" alt="image" src="https://github.com/user-attachments/assets/dcdb7eeb-d7b4-4a16-b059-181bff0d2518" />
-_ | _<img width="369" height="800" alt="image" src="https://github.com/user-attachments/assets/44b241e5-fe95-46ce-8573-4ab3cbdc5b96" />
-_ |
+| <img width="369" height="800" alt="image" src="https://github.com/user-attachments/assets/9da57897-2479-4fba-b0b0-7275d349cc53" /> | <img width="369" height="800" alt="image" src="https://github.com/user-attachments/assets/dcdb7eeb-d7b4-4a16-b059-181bff0d2518" /> | <img width="369" height="800" alt="image" src="https://github.com/user-attachments/assets/44b241e5-fe95-46ce-8573-4ab3cbdc5b96" /> |
 
 ---
 
