@@ -8,7 +8,7 @@
 
 <!-- Tempel link video demo di bawah ini -->
 
-[![Demo LogAsdos]([https://img.shields.io/badge/▶%20Tonton%20Demo-YouTube-red?style=for-the-badge&logo=youtube](https://youtu.be/Ei4dQ22zPsQ))](LINK_VIDEO_DI_SINI)
+[VIDEO DEMO](https://youtu.be/Ei4dQ22zPsQ)
 
 > **Link Video:** `[https://](https://youtu.be/Ei4dQ22zPsQ)` 
 
