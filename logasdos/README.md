@@ -26,7 +26,7 @@
 - [Cara Menjalankan](#-cara-menjalankan)
 - [Setup Firebase](#-setup-firebase)
 - [Akun Demo](#-akun-demo)
-- [Kesesuaian Kriteria Tugas](#-kesesuaian-kriteria-tugas)
+- [Kriteria Tugas](#-kesesuaian-kriteria-tugas)
 - [Screenshot](#-screenshot)
 
 ---
