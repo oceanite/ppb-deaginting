@@ -1,10 +1,10 @@
-# 📚 LogAsdos — Digital Assistant Logbook
+# LogAsdos — Digital Assistant Logbook
 
 > Aplikasi mobile berbasis Flutter untuk mendigitalisasi proses pencatatan dan verifikasi aktivitas Asisten Dosen secara real-time.
 
 ---
 
-## 🎬 Demo Video
+## Demo Video
 
 <!-- Tempel link video demo di bawah ini -->
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 📋 Daftar Isi
+## Daftar Isi
 
 - [Latar Belakang](#-latar-belakang)
 - [Tujuan Proyek](#-tujuan-proyek)
@@ -31,7 +31,7 @@
 
 ---
 
-## 🔍 Latar Belakang
+## Latar Belakang
 
 Proses pencatatan aktivitas Asisten Dosen (Asdos) saat ini mayoritas masih dilakukan secara **manual** menggunakan dokumen teks (Microsoft Word). Hal ini menimbulkan beberapa kendala:
 
@@ -46,7 +46,7 @@ Proses pencatatan aktivitas Asisten Dosen (Asdos) saat ini mayoritas masih dilak
 
 ---
 
-## 🎯 Tujuan Proyek
+## Tujuan Proyek
 
 1. Menggantikan pencatatan manual dengan sistem digital berbasis mobile.
 2. Memvalidasi kehadiran asdos melalui fitur kamera (foto kelas/screenshot Zoom).
@@ -56,9 +56,9 @@ Proses pencatatan aktivitas Asisten Dosen (Asdos) saat ini mayoritas masih dilak
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 
-### 👤 Admin
+### Admin
 - Dashboard statistik sistem (total pengguna, kelas, aktivitas, pending review)
 - Manajemen pengguna — buat akun Dosen & Asdos (tanpa register mandiri)
 - Manajemen kelas — buat, edit, hapus kelas dengan input waktu via **TimePicker**
@@ -76,7 +76,7 @@ Proses pencatatan aktivitas Asisten Dosen (Asdos) saat ini mayoritas masih dilak
 - Notifikasi saat log disetujui atau ditolak dosen
 - Ganti password
 
-### 👨‍🏫 Dosen
+### Dosen
 - Dashboard daftar Asdos + jumlah log pending
 - Review aktivitas Asdos beserta foto bukti
 - **Bulk Approval** — pilih semua / beberapa log sekaligus → setujui / tolak
@@ -86,7 +86,7 @@ Proses pencatatan aktivitas Asisten Dosen (Asdos) saat ini mayoritas masih dilak
 
 ---
 
-## 👥 Role Pengguna
+## Role Pengguna
 
 ```
 Admin
@@ -108,7 +108,7 @@ Asdos
 
 ---
 
-## 🏗 Arsitektur & Teknologi
+## Arsitektur & Teknologi
 
 ### Framework & Language
 | Komponen | Teknologi |
@@ -175,7 +175,7 @@ Approval (Dosen):
 
 ---
 
-## 🗄 Struktur Database
+## Struktur Database
 
 ### Firestore Collections
 
@@ -229,7 +229,7 @@ TABLE activities -- cache aktivitas asdos untuk offline mode
 
 ---
 
-## 📁 Struktur Proyek
+## Struktur Proyek
 
 ```
 lib/
@@ -288,7 +288,7 @@ lib/
 
 ---
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 
 ### Prasyarat
 - Flutter SDK 3.x
@@ -315,7 +315,7 @@ flutter run
 
 ---
 
-## 🔥 Setup Firebase
+## Setup Firebase
 
 ### 1. Buat Firebase Project
 1. Buka [console.firebase.google.com](https://console.firebase.google.com)
@@ -406,7 +406,7 @@ Saat pertama run, Flutter akan print link error untuk membuat index otomatis. Kl
 
 ---
 
-## 🔑 Akun Demo
+## Akun Demo
 
 | Role | Email | Password |
 |---|---|---|
@@ -430,7 +430,7 @@ Saat pertama run, Flutter akan print link error untuk membuat index otomatis. Kl
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 
 <!-- Tambahkan screenshot aplikasi di sini -->
 
