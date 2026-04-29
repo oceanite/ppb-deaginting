@@ -8,7 +8,7 @@
 
 <!-- Tempel link video demo di bawah ini -->
 
-[![Demo LogAsdos](https://img.shields.io/badge/▶%20Tonton%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](LINK_VIDEO_DI_SINI)
+[![Demo LogAsdos]([https://img.shields.io/badge/▶%20Tonton%20Demo-YouTube-red?style=for-the-badge&logo=youtube](https://youtu.be/Ei4dQ22zPsQ))](LINK_VIDEO_DI_SINI)
 
 > **Link Video:** `https://` _(ganti dengan link YouTube / Google Drive / platform lainnya)_
 
@@ -418,7 +418,7 @@ Saat pertama run, Flutter akan print link error untuk membuat index otomatis. Kl
 
 ---
 
-## ✅ Kesesuaian Kriteria Tugas
+## Kriteria Tugas
 
 | Kriteria | Implementasi | Bobot |
 |---|---|---|
@@ -437,6 +437,10 @@ Saat pertama run, Flutter akan print link error untuk membuat index otomatis. Kl
 | Login | Beranda Asdos | Input Log |
 |:---:|:---:|:---:|
 | <img width="369" height="800" alt="WhatsApp Image 2026-04-29 at 8 42 15 AM" src="https://github.com/user-attachments/assets/9a1b3040-0621-4e3e-b900-9cfb972ca652" /> | _<img width="369" height="800" alt="image" src="https://github.com/user-attachments/assets/475b3a94-19ac-48cd-921c-751ea0596c13" /> | <img width="369" height="800" alt="image" src="https://github.com/user-attachments/assets/6c07db29-fe9f-4c72-a2b3-1444eeb79835" /> |
+
+| Notifikasi | 
+|:---:|
+| <img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/732314ae-dab4-487b-9141-874680b89c5a" /> | 
 
 | Riwayat Aktivitas | Beranda Dosen | Bulk Approval |
 |:---:|:---:|:---:|
