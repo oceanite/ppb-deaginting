@@ -420,13 +420,13 @@ Saat pertama run, Flutter akan print link error untuk membuat index otomatis. Kl
 
 ## Kriteria Tugas
 
-| Kriteria | Implementasi | Bobot |
-|---|---|---|
-| **CRUD & Relational DB** | Tabel `classes` (master) dan `activities` (transaksi) di Firestore + SQLite. Relasi classId → activities sebagai foreign key. Semua operasi CRUD tersedia (admin: kelas & user; dosen: status aktivitas; asdos: input log). | 10% |
-| **Firebase Auth** | Login email/password untuk 3 role (Admin, Dosen, Asdos). Admin membuat akun via Firebase Auth API. Ganti password dengan re-authentication. Reset password via email. | 5% |
-| **Storing in Firebase** | Sinkronisasi data teks ke **Firestore**. Foto bukti aktivitas diunggah ke **Cloudinary** (pengganti Firebase Storage yang butuh Blaze plan) dan URL disimpan di Firestore. Cache lokal di SQLite untuk mode offline. | 5% |
-| **Notifications** | Notifikasi pengingat **30 menit sebelum kelas** dimulai + **2 jam setelah kelas selesai** jika log belum diisi. Notifikasi status saat dosen approve/reject. Menggunakan `flutter_local_notifications`. | 5% |
-| **Smartphone Resource** | Akses **kamera** untuk foto bukti kelas luring. Akses **galeri** untuk screenshot Zoom/kelas daring. Menggunakan `image_picker`. | 5% |
+| Kriteria | Implementasi |
+|---|---|
+| **CRUD & Relational DB** | Tabel `classes` (master) dan `activities` (transaksi) di Firestore + SQLite. Relasi classId → activities sebagai foreign key. Semua operasi CRUD tersedia (admin: kelas & user; dosen: status aktivitas; asdos: input log). |
+| **Firebase Auth** | Login email/password untuk 3 role (Admin, Dosen, Asdos). Admin membuat akun via Firebase Auth API. Ganti password dengan re-authentication. Reset password via email. |
+| **Storing in Firebase** | Sinkronisasi data teks ke **Firestore**. Foto bukti aktivitas diunggah ke **Cloudinary** (pengganti Firebase Storage yang butuh Blaze plan) dan URL disimpan di Firestore. Cache lokal di SQLite untuk mode offline. |
+| **Notifications** | Notifikasi pengingat **30 menit sebelum kelas** dimulai + **2 jam setelah kelas selesai** jika log belum diisi. Notifikasi status saat dosen approve/reject. Menggunakan `flutter_local_notifications`. |
+| **Smartphone Resource** | Akses **kamera** untuk foto bukti kelas luring. Akses **galeri** untuk screenshot Zoom/kelas daring. Menggunakan `image_picker`. |
 
 ---
 
