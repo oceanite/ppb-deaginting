@@ -436,7 +436,7 @@ Saat pertama run, Flutter akan print link error untuk membuat index otomatis. Kl
 
 | Login | Beranda Asdos | Input Log |
 |:---:|:---:|:---:|
-| _<img width="738" height="1600" alt="WhatsApp Image 2026-04-29 at 8 42 15 AM" src="https://github.com/user-attachments/assets/9a1b3040-0621-4e3e-b900-9cfb972ca652" />
+| _<img width="369" height="800" alt="WhatsApp Image 2026-04-29 at 8 42 15 AM" src="https://github.com/user-attachments/assets/9a1b3040-0621-4e3e-b900-9cfb972ca652" />
 _ | _(screenshot)_ | _(screenshot)_ |
 
 | Riwayat Aktivitas | Beranda Dosen | Bulk Approval |
