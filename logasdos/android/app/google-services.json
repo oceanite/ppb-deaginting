@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584081190332",
+    "project_id": "logasdos",
+    "storage_bucket": "logasdos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584081190332:android:40fb019f4e2e114fbc4fb9",
+        "android_client_info": {
+          "package_name": "com.example.logasdos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDXRLQANzr0mQwqaReWtDCZcN3qD2luDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
