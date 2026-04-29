@@ -10,7 +10,7 @@
 
 [![Demo LogAsdos]([https://img.shields.io/badge/▶%20Tonton%20Demo-YouTube-red?style=for-the-badge&logo=youtube](https://youtu.be/Ei4dQ22zPsQ))](LINK_VIDEO_DI_SINI)
 
-> **Link Video:** `https://` _(ganti dengan link YouTube / Google Drive / platform lainnya)_
+> **Link Video:** `[https://](https://youtu.be/Ei4dQ22zPsQ)` 
 
 ---
 
