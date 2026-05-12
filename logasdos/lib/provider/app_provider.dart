@@ -189,8 +189,11 @@ class AppProvider extends ChangeNotifier {
           onProgress: (p) { _uploadProgress = p; notifyListeners(); },
         );
         _uploading = false;
-        if (result.startsWith('http')) uploadedUrl = result;
-        else uploadedPath = result;
+        if (result.startsWith('http')) {
+          uploadedUrl = result;
+        } else {
+          uploadedPath = result;
+        }
       }
       final activity = ActivityModel(
         id: '', classId: classId, className: className,
@@ -259,7 +262,9 @@ class AppProvider extends ChangeNotifier {
   Future<String?> bulkApprove(List<String> ids) async {
     try {
       await _fs.bulkUpdateStatus(ids: ids, status: ActivityStatus.approved);
-      for (final id in ids) _patchLocal(id, ActivityStatus.approved);
+      for (final id in ids) {
+        _patchLocal(id, ActivityStatus.approved);
+      }
       return null;
     } catch (e) { return 'Gagal: $e'; }
   }
@@ -267,7 +272,9 @@ class AppProvider extends ChangeNotifier {
   Future<String?> bulkReject(List<String> ids) async {
     try {
       await _fs.bulkUpdateStatus(ids: ids, status: ActivityStatus.rejected);
-      for (final id in ids) _patchLocal(id, ActivityStatus.rejected);
+      for (final id in ids) {
+        _patchLocal(id, ActivityStatus.rejected);
+      }
       return null;
     } catch (e) { return 'Gagal: $e'; }
   }

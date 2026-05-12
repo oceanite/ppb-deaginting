@@ -93,7 +93,7 @@ class _AsdosHomeScreenState extends State<AsdosHomeScreen> {
                         ]),
                         const SizedBox(height: 20),
 
-                        SectionHeader(title: 'Kelas yang Diampu'),
+                        const SectionHeader(title: 'Kelas yang Diampu'),
                         const SizedBox(height: 10),
                       ]),
                 ),

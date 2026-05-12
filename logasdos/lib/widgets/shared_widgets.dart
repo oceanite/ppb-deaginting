@@ -448,9 +448,9 @@ class PhotoPreviewWidget extends StatelessWidget {
     ]);
   }
 
-  Widget _buildPlaceholder() => Column(
+  Widget _buildPlaceholder() => const Column(
         mainAxisAlignment: MainAxisAlignment.center,
-        children: const [
+        children: [
           Icon(Icons.camera_alt_rounded,
               size: 28, color: AppColors.primaryMid),
           SizedBox(height: 6),

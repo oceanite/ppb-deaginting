@@ -189,7 +189,7 @@ class _InputActivityScreenState extends State<InputActivityScreen> {
         content: Column(mainAxisSize: MainAxisSize.min, children: [
           Container(
             width: 56, height: 56,
-            decoration: BoxDecoration(
+            decoration: const BoxDecoration(
                 color: AppColors.approvedBg, shape: BoxShape.circle),
             child: const Icon(Icons.check_rounded,
                 size: 28, color: AppColors.approved),
